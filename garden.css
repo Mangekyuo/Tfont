@@ -1,0 +1,17 @@
+.Textzone{
+    width: 98vw;
+    height: 30vh;
+    color: grey;
+    font-size: 150%;
+}
+
+.Label{
+    font-family: Font1;
+    font-size: 200%;
+    display: inline-block;
+    color: #000;
+    width: 98vw;
+    height: 15vh;
+    border: solid;
+    border-radius: 5px;
+}
